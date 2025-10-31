@@ -1,0 +1,3 @@
+Notas:
+- Para persistencia real de Tasks, añade migración `php artisan make:migration create_tasks_table` y el modelo ya incluido.
+- Puedes mejorar la selección de idioma con middleware y guardarlo en base de datos por usuario autenticado.
