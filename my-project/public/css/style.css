@@ -1,0 +1,3 @@
+/* Archivo CSS adicional (vacío por ahora). Se usa Bootstrap CDN; aquí puedes personalizar estilos. */
+/* Evitamos reglas vacías para linters */
+body { }
